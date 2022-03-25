@@ -1,0 +1,178 @@
+PODS:
+  - Google-Maps-iOS-Utils (2.1.0):
+    - Google-Maps-iOS-Utils/Clustering (= 2.1.0)
+    - Google-Maps-iOS-Utils/Geometry (= 2.1.0)
+    - Google-Maps-iOS-Utils/Heatmap (= 2.1.0)
+    - Google-Maps-iOS-Utils/QuadTree (= 2.1.0)
+    - GoogleMaps
+  - Google-Maps-iOS-Utils/Clustering (2.1.0):
+    - Google-Maps-iOS-Utils/QuadTree
+    - GoogleMaps
+  - Google-Maps-iOS-Utils/Geometry (2.1.0):
+    - GoogleMaps
+  - Google-Maps-iOS-Utils/Heatmap (2.1.0):
+    - Google-Maps-iOS-Utils/QuadTree
+    - GoogleMaps
+  - Google-Maps-iOS-Utils/QuadTree (2.1.0):
+    - GoogleMaps
+  - GoogleMaps (2.5.0):
+    - GoogleMaps/Maps (= 2.5.0)
+  - GoogleMaps/Base (2.5.0)
+  - GoogleMaps/Maps (2.5.0):
+    - GoogleMaps/Base
+  - OneSignal (2.14.3)
+  - React (0.59.8):
+    - React/Core (= 0.59.8)
+  - react-native-geolocation (1.4.2):
+    - React
+  - react-native-google-maps (0.24.2):
+    - Google-Maps-iOS-Utils (= 2.1.0)
+    - GoogleMaps (= 2.5.0)
+    - React
+  - react-native-image-picker (0.14.3):
+    - React
+  - react-native-image-resizer (1.0.1):
+    - React
+  - react-native-maps (0.24.2):
+    - React
+  - react-native-onesignal (3.9.0):
+    - OneSignal (= 2.14.3)
+    - React (< 1.0.0, >= 0.13.0)
+  - React/Core (0.59.8):
+    - yoga (= 0.59.8.React)
+  - React/DevSupport (0.59.8):
+    - React/Core
+    - React/RCTWebSocket
+  - React/fishhook (0.59.8)
+  - React/RCTActionSheet (0.59.8):
+    - React/Core
+  - React/RCTAnimation (0.59.8):
+    - React/Core
+  - React/RCTBlob (0.59.8):
+    - React/Core
+  - React/RCTGeolocation (0.59.8):
+    - React/Core
+  - React/RCTImage (0.59.8):
+    - React/Core
+    - React/RCTNetwork
+  - React/RCTLinkingIOS (0.59.8):
+    - React/Core
+  - React/RCTNetwork (0.59.8):
+    - React/Core
+  - React/RCTSettings (0.59.8):
+    - React/Core
+  - React/RCTText (0.59.8):
+    - React/Core
+  - React/RCTVibration (0.59.8):
+    - React/Core
+  - React/RCTWebSocket (0.59.8):
+    - React/Core
+    - React/fishhook
+    - React/RCTBlob
+  - ReactNativePermissions (1.2.0):
+    - React
+  - RNCAsyncStorage (1.6.1):
+    - React
+  - RNFS (2.13.3):
+    - React
+  - RNReanimated (1.1.0):
+    - React
+  - RNVectorIcons (6.5.0):
+    - React
+  - Stripe (14.0.1)
+  - tipsi-stripe (7.5.3):
+    - React
+    - Stripe (~> 14.0.1)
+  - yoga (0.59.8.React)
+
+DEPENDENCIES:
+  - Google-Maps-iOS-Utils
+  - GoogleMaps
+  - OneSignal (< 3.0, >= 2.9.3)
+  - "react-native-geolocation (from `../node_modules/@react-native-community/geolocation`)"
+  - react-native-google-maps (from `../node_modules/react-native-maps/`)
+  - react-native-image-picker (from `../node_modules/react-native-image-picker`)
+  - react-native-image-resizer (from `../node_modules/react-native-image-resizer`)
+  - react-native-maps (from `../node_modules/react-native-maps/`)
+  - react-native-onesignal (from `../node_modules/react-native-onesignal`)
+  - React/Core (from `../node_modules/react-native`)
+  - React/DevSupport (from `../node_modules/react-native`)
+  - React/RCTActionSheet (from `../node_modules/react-native`)
+  - React/RCTAnimation (from `../node_modules/react-native`)
+  - React/RCTGeolocation (from `../node_modules/react-native`)
+  - React/RCTImage (from `../node_modules/react-native`)
+  - React/RCTLinkingIOS (from `../node_modules/react-native`)
+  - React/RCTNetwork (from `../node_modules/react-native`)
+  - React/RCTSettings (from `../node_modules/react-native`)
+  - React/RCTText (from `../node_modules/react-native`)
+  - React/RCTVibration (from `../node_modules/react-native`)
+  - React/RCTWebSocket (from `../node_modules/react-native`)
+  - ReactNativePermissions (from `../node_modules/react-native-permissions`)
+  - "RNCAsyncStorage (from `../node_modules/@react-native-community/async-storage`)"
+  - RNFS (from `../node_modules/react-native-fs`)
+  - RNReanimated (from `../node_modules/react-native-reanimated`)
+  - RNVectorIcons (from `../node_modules/react-native-vector-icons`)
+  - Stripe (~> 14.0.0)
+  - tipsi-stripe (from `../node_modules/tipsi-stripe`)
+  - yoga (from `../node_modules/react-native/ReactCommon/yoga`)
+
+SPEC REPOS:
+  trunk:
+    - Google-Maps-iOS-Utils
+    - GoogleMaps
+    - OneSignal
+    - Stripe
+
+EXTERNAL SOURCES:
+  React:
+    :path: "../node_modules/react-native"
+  react-native-geolocation:
+    :path: "../node_modules/@react-native-community/geolocation"
+  react-native-google-maps:
+    :path: "../node_modules/react-native-maps/"
+  react-native-image-picker:
+    :path: "../node_modules/react-native-image-picker"
+  react-native-image-resizer:
+    :path: "../node_modules/react-native-image-resizer"
+  react-native-maps:
+    :path: "../node_modules/react-native-maps/"
+  react-native-onesignal:
+    :path: "../node_modules/react-native-onesignal"
+  ReactNativePermissions:
+    :path: "../node_modules/react-native-permissions"
+  RNCAsyncStorage:
+    :path: "../node_modules/@react-native-community/async-storage"
+  RNFS:
+    :path: "../node_modules/react-native-fs"
+  RNReanimated:
+    :path: "../node_modules/react-native-reanimated"
+  RNVectorIcons:
+    :path: "../node_modules/react-native-vector-icons"
+  tipsi-stripe:
+    :path: "../node_modules/tipsi-stripe"
+  yoga:
+    :path: "../node_modules/react-native/ReactCommon/yoga"
+
+SPEC CHECKSUMS:
+  Google-Maps-iOS-Utils: c32891ff472eaaa1fca032beedafa1a013af7875
+  GoogleMaps: c087b8e5dfe87ca6ebf59adb9b4894a4146bec4f
+  OneSignal: 7dfe466265c05f02b95a274b9c997a0619ad2117
+  React: 76e6aa2b87d05eb6cccb6926d72685c9a07df152
+  react-native-geolocation: 79c743ad7a2e86617811ef23f49308824e92520c
+  react-native-google-maps: 568cb03d0eae7fef93626f65d05be55642404ed4
+  react-native-image-picker: 3693786b3d5958c8f71deed66ec068b323565e0d
+  react-native-image-resizer: ecae22b577b0425cd7803eb8145243038dd4b6bd
+  react-native-maps: 0316ed017dbb64b33b227751fa810e2454fcfa39
+  react-native-onesignal: 3cb529f99353f5765ca3ce305c9e8c583fd54c81
+  ReactNativePermissions: f0aec11433d43d45953c678b6982921d83ad94c8
+  RNCAsyncStorage: 621bad7a889b5bf1583a52547f2dcd3a4d1ff15e
+  RNFS: c9bbde46b0d59619f8e7b735991c60e0f73d22c1
+  RNReanimated: 7a52c90473b5e81c13408d40d797b98387eaddde
+  RNVectorIcons: f6cf608dee5b2cb5726ff3b629a5258586d5677b
+  Stripe: 4305b646743612854819fb5d5cf67aaeb93577c0
+  tipsi-stripe: 41299d30e9b906413315eeb1b94607aaac9b6781
+  yoga: 92b2102c3d373d1a790db4ab761d2b0ffc634f64
+
+PODFILE CHECKSUM: 9c9b369d1f50b939890147549844498de07bd65a
+
+COCOAPODS: 1.9.3
