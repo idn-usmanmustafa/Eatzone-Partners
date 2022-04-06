@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/usman/workspace/eatzone/test/eatzone-partner/eatzone-partner/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/home/usman/.gradle/caches/transforms-1/files-1.1/jetified-CreditCardEntry-1.5.1.aar/956b94f351e6d5088789a7fa30a0426c/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        }
+    ]
+}

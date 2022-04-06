@@ -1,0 +1,4 @@
+#Wed Apr 06 14:25:49 PKT 2022
+base.0=/home/usman/workspace/eatzone/test/eatzone-partner/eatzone-partner/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

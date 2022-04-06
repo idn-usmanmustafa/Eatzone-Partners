@@ -57,6 +57,7 @@
     "@babel/runtime": "^7.11.1",
     "babel-jest": "^24.9.0",
     "jest": "^24.9.0",
+    "jetifier": "^2.0.0",
     "metro-react-native-babel-preset": "^0.54.1",
     "react-test-renderer": "16.8.3"
   },

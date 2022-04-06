@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/food_all_in_one.iml" filepath="$PROJECT_DIR$/.idea/modules/food_all_in_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-914579493/food_all_in_one.@react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-914579493/food_all_in_one.@react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1261356535/food_all_in_one.@react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/1261356535/food_all_in_one.@react-native-community_geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/food_all_in_one.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/food_all_in_one.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1984158404/food_all_in_one.react-native-android-location-enabler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1984158404/food_all_in_one.react-native-android-location-enabler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1311058828/food_all_in_one.react-native-fs.iml" filepath="$PROJECT_DIR$/.idea/modules/-1311058828/food_all_in_one.react-native-fs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/946314471/food_all_in_one.react-native-geolocation-service.iml" filepath="$PROJECT_DIR$/.idea/modules/946314471/food_all_in_one.react-native-geolocation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-789273025/food_all_in_one.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-789273025/food_all_in_one.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1171952935/food_all_in_one.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1171952935/food_all_in_one.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/773238661/food_all_in_one.react-native-image-resizer.iml" filepath="$PROJECT_DIR$/.idea/modules/773238661/food_all_in_one.react-native-image-resizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1038686580/food_all_in_one.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/1038686580/food_all_in_one.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-86171961/food_all_in_one.react-native-onesignal.iml" filepath="$PROJECT_DIR$/.idea/modules/-86171961/food_all_in_one.react-native-onesignal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-339555203/food_all_in_one.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-339555203/food_all_in_one.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1497746953/food_all_in_one.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1497746953/food_all_in_one.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1440301450/food_all_in_one.tipsi-stripe.iml" filepath="$PROJECT_DIR$/.idea/modules/1440301450/food_all_in_one.tipsi-stripe.iml" />
+    </modules>
+  </component>
+</project>
